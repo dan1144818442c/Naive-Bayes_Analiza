@@ -9,10 +9,7 @@ class Naive_Bayes:
         self.df = df
         self.dict_ = {}
         self.target_column = self.df.columns[-1]
-    def  get_dict_and_enter_df(self):
-
-        pass
-
+        self.dic_detiels_target = self.get_dic_of_detelis_Target_variable()
 
     def get_df_Target_variable(self):
         df_Target_variable  = self.df.value_counts(self.target_column)
@@ -48,6 +45,24 @@ class Naive_Bayes:
             dic[val] = 0
         return dic
 
+    def fiil_dict(self):
+        dict_with_0 = self.get_all_dic_with_0()
+
+        for key_terget  , val in dict_with_0.items():
+            for column , key_column in val.items():
+
+                for val_count  , val_of_val_count in  key_column.items():
+                    num_count = self.get_num_of_val_count_in_target(name_target= self.target_column , val_target=key_terget , name_column=column ,name_valu_count=val_count)
+                    num_target =self.dic_detiels_target[key_terget]
+                    dict_with_0[key_terget][column][val_count] =num_count / num_target
+        print(dict_with_0)
+
+
+
+
+    def get_num_of_val_count_in_target(self ,  name_target , val_target , name_column , name_valu_count):
+        count =self.df[(df[name_column] == name_valu_count) & (df[name_target] == val_target)].shape[0]
+        return count
 
 
 
@@ -55,7 +70,7 @@ df = pd.read_csv(r"C:\Users\1\Desktop\DATA_Analiza\Naive Bayes\DATA_CSV\CSV_buy_
 df = DATA_CSV.clean_data.clean_nall_and_duplicates(df)
 # print(df)
 n = Naive_Bayes(df)
-print(n.get_dic_of_val_count_with_0('age'))
-# print(n.get_dic_with_all_static())
-
+# print(n.get_dic_of_val_count_with_0('age'))
+# print(n.get_num_of_val_count_in_target())
+n.fiil_dict()
 
