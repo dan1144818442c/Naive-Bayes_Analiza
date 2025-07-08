@@ -1,0 +1,52 @@
+# קבצי Python קומפילציה
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# סביבת פייתון וירטואלית
+venv/
+env/
+.venv/
+.env/
+
+# קבצי לוגים וקבצים זמניים
+*.log
+*.tmp
+*.bak
+
+# קבצים של Jupyter
+.ipynb_checkpoints/
+
+# IDE של PyCharm
+.idea/
+
+# קבצים של מערכת הפעלה
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# קבצי נתונים פרטיים (אם לא רוצים לעלות ל־GitHub)
+*.csv
+*.xlsx
+*.json
+*.db
+
+# Token/Security
+*.env
+secrets.json
+
+# קבצי Cache של pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# אם יש tests
+htmlcov/
+.coverage
+.tox/
+.cache/
+pytest_cache/
+
+# VSCode אם אתה פותח גם שם לפעמים
+.vscode/
