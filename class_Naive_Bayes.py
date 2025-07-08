@@ -55,7 +55,9 @@ class Naive_Bayes:
                     num_count = self.get_num_of_val_count_in_target(name_target= self.target_column , val_target=key_terget , name_column=column ,name_valu_count=val_count)
                     num_target =self.dic_detiels_target[key_terget]
                     dict_with_0[key_terget][column][val_count] =num_count / num_target
-        print(dict_with_0)
+        new_dic_with_val = dict_with_0
+        print(new_dic_with_val)
+        return new_dic_with_val
 
 
 
