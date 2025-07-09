@@ -11,8 +11,14 @@ class Naive_Bayes:
         self.target_column = self.df.columns[-1]
         self.dic_detiels_target = self.get_dic_of_detelis_Target_variable()
 
+    def get_len_dict_target_val(self):
+        num = 0
+        for key,val in self.dic_detiels_target.items():
+            num += val
+        return num
     def get_df_Target_variable(self):
         df_Target_variable  = self.df.value_counts(self.target_column)
+        # print(df_Target_variable)
         return df_Target_variable
 
     def get_dic_of_detelis_Target_variable(self):
@@ -55,7 +61,7 @@ class Naive_Bayes:
                     num_target =self.dic_detiels_target[key_terget]
                     dict_with_0[key_terget][column][val_count] =num_count / num_target
         new_dic_with_val = dict_with_0
-        print(new_dic_with_val)
+        # print(new_dic_with_val)
         self.dict_ = new_dic_with_val
         return new_dic_with_val
 
@@ -63,7 +69,7 @@ class Naive_Bayes:
     def chek_have_zero_colomn_level(self , colomn_val):
         for name , val in colomn_val.items():
             if val == 0:
-                print(val , " "+ name)
+                # print(val , " " , name)
                 return True
         return False
     def  update_if_have_zero(self):
@@ -85,23 +91,75 @@ class Naive_Bayes:
 
 
     def get_num_of_val_count_in_target(self ,  name_target , val_target , name_column , name_valu_count):
-        count =self.df[(df[name_column] == name_valu_count) & (df[name_target] == val_target)].shape[0]
+        count =self.df[(self.df[name_column] == name_valu_count) & (self.df[name_target] == val_target)].shape[0]
         return count
 
-    def predict(self):
-        list_choice = []
+    def predict_by_input(self):
+        dic_choice = {}
         for target_name , value_target in self.dict_.items():
             for column , val_column in value_target.items():
+                choice = self.get_choice_by_valu(val_column)
+                dic_choice[column] = choice
+            break
+        dic_res = {}
+        for target_name, value_target in self.dict_.items():
+            predict_num = 1
+            for column, val_column in value_target.items():
+                predict_num *= val_column[dic_choice[column]]
+            target_percent = (self.dic_detiels_target[target_name])/ self.get_len_dict_target_val()
+            predict_num *=target_percent
+            print(target_name + " : " , predict_num)
+            dic_res[target_name] = predict_num
+        max_key = max(dic_res, key=dic_res.get)
+        # print(max_key)
+        return max_key
 
-    def get_choice
+    def predict_by_row(self , dic_choice):
 
-df = pd.read_csv(r"C:\Users\1\Desktop\DATA_Analiza\Naive Bayes\DATA_CSV\CSV_buy_comuter.csv" , index_col='id')
-df = DATA_CSV.clean_data.clean_nall_and_duplicates(df)
-# print(df)
-n = Naive_Bayes(df)
-# print(n.get_dic_of_val_count_with_0('age'))
-# print(n.get_num_of_val_count_in_target())
-# n.fiil_dict()
-# print("    ")
-print(n.update_if_have_zero())
+        dic_res = {}
+        for target_name, value_target in self.dict_.items():
+            predict_num = 1
+            for column, val_column in value_target.items():
+                if column != self.target_column:
 
+                    predict_num *= val_column[dic_choice[column]]
+            target_percent = (self.dic_detiels_target[target_name]) / self.get_len_dict_target_val()
+            predict_num *= target_percent
+            # print(target_name + " : " ,  predict_num)
+            dic_res[target_name] = predict_num
+        max_key = max(dic_res, key=dic_res.get)
+        return max_key
+
+
+
+    def get_choice_by_valu(self , column_val):
+            keys = list(column_val.keys())
+
+            while True:
+                for idx, key in enumerate(keys, start=1):
+                    print(f"Enter {idx} to select '{key}'")
+
+                choice = input("Enter your choice: ")
+
+                if not choice.isdigit():
+                    print("Please enter a number.")
+                    continue
+
+                choice = int(choice)
+                if 1 <= choice <= len(keys):
+                    selected_key = keys[choice - 1]
+                    return selected_key
+                else:
+                    print("Invalid choice. Try again.\n")
+
+
+# df = pd.read_csv(r"C:\Users\1\Desktop\DATA_Analiza\Naive Bayes\DATA_CSV\CSV_buy_comuter.csv" , index_col='id')
+# df = DATA_CSV.clean_data.clean_nall_and_duplicates(df)
+# # print(df)
+# n = Naive_Bayes(df)
+# # print(n.get_dic_of_val_count_with_0('age'))
+# # print(n.get_num_of_val_count_in_target())
+# # n.fiil_dict()
+# # print("    ")
+# print(n.update_if_have_zero())
+# n.predict_by_input()
