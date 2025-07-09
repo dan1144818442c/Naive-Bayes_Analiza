@@ -50,23 +50,50 @@ class Naive_Bayes:
 
         for key_terget  , val in dict_with_0.items():
             for column , key_column in val.items():
-
                 for val_count  , val_of_val_count in  key_column.items():
                     num_count = self.get_num_of_val_count_in_target(name_target= self.target_column , val_target=key_terget , name_column=column ,name_valu_count=val_count)
                     num_target =self.dic_detiels_target[key_terget]
                     dict_with_0[key_terget][column][val_count] =num_count / num_target
         new_dic_with_val = dict_with_0
         print(new_dic_with_val)
+        self.dict_ = new_dic_with_val
         return new_dic_with_val
 
 
+    def chek_have_zero_colomn_level(self , colomn_val):
+        for name , val in colomn_val.items():
+            if val == 0:
+                print(val , " "+ name)
+                return True
+        return False
+    def  update_if_have_zero(self):
+        self.fiil_dict()
+        for key_terget, val in self.dict_.items():
+            have_zero_level_column = False
+
+            for column, key_column in val.items():
+                have_zero_level_column = self.chek_have_zero_colomn_level(key_column)
+                if have_zero_level_column:
+                    for val_count, val_of_val_count in key_column.items():
+                        num_count = self.get_num_of_val_count_in_target(name_target=self.target_column,
+                                                                        val_target=key_terget, name_column=column,
+                                                                        name_valu_count=val_count) +1
+                        num_target = self.dic_detiels_target[key_terget] +1
+
+                        self.dict_[key_terget][column][val_count] = num_count / num_target
+        return self.dict_
 
 
     def get_num_of_val_count_in_target(self ,  name_target , val_target , name_column , name_valu_count):
         count =self.df[(df[name_column] == name_valu_count) & (df[name_target] == val_target)].shape[0]
         return count
 
+    def predict(self):
+        list_choice = []
+        for target_name , value_target in self.dict_.items():
+            for column , val_column in value_target.items():
 
+    def get_choice
 
 df = pd.read_csv(r"C:\Users\1\Desktop\DATA_Analiza\Naive Bayes\DATA_CSV\CSV_buy_comuter.csv" , index_col='id')
 df = DATA_CSV.clean_data.clean_nall_and_duplicates(df)
@@ -74,5 +101,7 @@ df = DATA_CSV.clean_data.clean_nall_and_duplicates(df)
 n = Naive_Bayes(df)
 # print(n.get_dic_of_val_count_with_0('age'))
 # print(n.get_num_of_val_count_in_target())
-n.fiil_dict()
+# n.fiil_dict()
+# print("    ")
+print(n.update_if_have_zero())
 
