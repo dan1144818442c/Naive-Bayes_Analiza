@@ -11,6 +11,8 @@ class Naive_Bayes:
         self.target_column = self.df.columns[-1]
         self.dic_detiels_target = self.get_dic_of_detelis_Target_variable()
 
+    def get_dic_after_updetes(self):
+        return self.update_if_have_zero()
     def get_len_dict_target_val(self):
         num = 0
         for key,val in self.dic_detiels_target.items():
@@ -98,7 +100,7 @@ class Naive_Bayes:
         dic_choice = {}
         for target_name , value_target in self.dict_.items():
             for column , val_column in value_target.items():
-                choice = self.get_choice_by_valu(val_column)
+                choice = self.get_choice_by_valu( column ,val_column )
                 dic_choice[column] = choice
             break
         dic_res = {}
@@ -108,20 +110,18 @@ class Naive_Bayes:
                 predict_num *= val_column[dic_choice[column]]
             target_percent = (self.dic_detiels_target[target_name])/ self.get_len_dict_target_val()
             predict_num *=target_percent
-            print(target_name + " : " , predict_num)
+            # print(target_name ," : " , predict_num)
             dic_res[target_name] = predict_num
         max_key = max(dic_res, key=dic_res.get)
         # print(max_key)
         return max_key
 
     def predict_by_row(self , dic_choice):
-
         dic_res = {}
         for target_name, value_target in self.dict_.items():
             predict_num = 1
             for column, val_column in value_target.items():
                 if column != self.target_column:
-
                     predict_num *= val_column[dic_choice[column]]
             target_percent = (self.dic_detiels_target[target_name]) / self.get_len_dict_target_val()
             predict_num *= target_percent
@@ -130,28 +130,27 @@ class Naive_Bayes:
         max_key = max(dic_res, key=dic_res.get)
         return max_key
 
+    def get_choice_by_valu(self, column_name: str, column_val: dict):
+        keys = list(column_val.keys())
 
+        while True:
+            print(f"\n Select a value for column '{column_name}':")
+            for idx, key in enumerate(keys, start=1):
+                print(f"Enter {idx} to select '{key}'")
 
-    def get_choice_by_valu(self , column_val):
-            keys = list(column_val.keys())
+            choice = input("Enter your choice: ")
 
-            while True:
-                for idx, key in enumerate(keys, start=1):
-                    print(f"Enter {idx} to select '{key}'")
+            if not choice.isdigit():
+                print("Please enter a number.")
+                continue
 
-                choice = input("Enter your choice: ")
-
-                if not choice.isdigit():
-                    print("Please enter a number.")
-                    continue
-
-                choice = int(choice)
-                if 1 <= choice <= len(keys):
-                    selected_key = keys[choice - 1]
-                    return selected_key
-                else:
-                    print("Invalid choice. Try again.\n")
-
+            choice = int(choice)
+            if 1 <= choice <= len(keys):
+                selected_key = keys[choice - 1]
+                print(f" You selected '{selected_key}' for column '{column_name}'\n")
+                return selected_key
+            else:
+                print(" Invalid choice. Try again.\n")
 
 # df = pd.read_csv(r"C:\Users\1\Desktop\DATA_Analiza\Naive Bayes\DATA_CSV\CSV_buy_comuter.csv" , index_col='id')
 # df = DATA_CSV.clean_data.clean_nall_and_duplicates(df)
