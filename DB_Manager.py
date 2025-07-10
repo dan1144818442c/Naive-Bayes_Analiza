@@ -51,7 +51,8 @@ class DB_Manager:
             return None
 
     def predict_by_input(self , instance,dic_input=False):
-        return instance.predict_by_input_of_all_columns()
-        # return instance.predict_by_input_of_spsific_columns(self , dic_input)
+        # return instance.predict_by_input_of_all_columns()
+        return instance.predict_by_input_of_spsific_columns(dic_input)
+
 # a = DB_Manager()
 # a.load_class_object().predict_by_input()

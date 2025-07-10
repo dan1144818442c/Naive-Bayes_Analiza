@@ -8,9 +8,9 @@ class Naive_Bayes:
     def __init__(self , df , target_column =False ):
         self.df = df
         self.dict_ = {}
-        target_column = input("enter target coulmn")
-        if not target_column or target_column not in self.df.columns:
-            self.target_column = self.df.columns[-1]
+        # target_column = input("enter target coulmn")
+        # if not target_column or target_column not in self.df.columns:
+        self.target_column = self.df.columns[-1]
         self.dic_detiels_target = self.get_dic_of_detelis_Target_variable()
 
     def get_dic_after_updetes(self):
@@ -106,7 +106,7 @@ class Naive_Bayes:
                 dic_choice[column] = choice
             break
         return dic_choice
-    def predict__by_dic(self , dic_choice):
+    def predict__by_full_dic_columns(self , dic_choice):
         dic_res = {}
         for target_name, value_target in self.dict_.items():
             predict_num = 1

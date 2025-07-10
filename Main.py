@@ -1,5 +1,5 @@
 from DB_Manager import DB_Manager
-
+import json
 class MainApp:
     def action(self):
         print("Welcome to the Prediction System!")
@@ -14,15 +14,15 @@ class MainApp:
                 print("Error loading the class. Trying again...\n")
                 continue
 
-            try:
-                print(f"אחוזי הצלחה {instance.Accuracy_percentages}")
-                # dic = dict(input("hhhh"))
-                res, target_column = manager.predict_by_input(instance)
-                print("\n Prediction Result:")
-                print(f"The probability that '{target_column}' will be: {res}!!")
-                print("#############################################################################\n")
-            except Exception as e:
-                print(f"⚠ Error during prediction: {e}")
+
+            print(f"אחוזי הצלחה {instance.Accuracy_percentages}")
+            dic = json.loads(input("enter dic of choice"))
+            res, target_column = manager.predict_by_input(instance=instance , dic_input=dic)
+            print("\n Prediction Result:")
+            print(f"The probability that '{target_column}' will be: {res}!!")
+            print("#############################################################################\n")
+            # except Exception as e:
+            #     print(f"⚠ Error during prediction: {e}")
 
             again = input("Would you like to make another prediction? (y/n): ").lower()
             if again != 'y':
