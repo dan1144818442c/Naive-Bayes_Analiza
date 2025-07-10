@@ -5,10 +5,12 @@ import DATA_CSV.clean_data
 
 
 class Naive_Bayes:
-    def __init__(self , df):
+    def __init__(self , df , target_column =False ):
         self.df = df
         self.dict_ = {}
-        self.target_column = self.df.columns[-1]
+        target_column = input("enter target coulmn")
+        if not target_column or target_column not in self.df.columns:
+            self.target_column = self.df.columns[-1]
         self.dic_detiels_target = self.get_dic_of_detelis_Target_variable()
 
     def get_dic_after_updetes(self):
@@ -96,13 +98,15 @@ class Naive_Bayes:
         count =self.df[(self.df[name_column] == name_valu_count) & (self.df[name_target] == val_target)].shape[0]
         return count
 
-    def predict_by_input(self):
+    def get_dic_by_input(self):
         dic_choice = {}
         for target_name , value_target in self.dict_.items():
             for column , val_column in value_target.items():
                 choice = self.get_choice_by_valu( column ,val_column )
                 dic_choice[column] = choice
             break
+        return dic_choice
+    def predict__by_dic(self , dic_choice):
         dic_res = {}
         for target_name, value_target in self.dict_.items():
             predict_num = 1
@@ -113,8 +117,7 @@ class Naive_Bayes:
             # print(target_name ," : " , predict_num)
             dic_res[target_name] = predict_num
         max_key = max(dic_res, key=dic_res.get)
-        # print(max_key)
-        return max_key
+        return (max_key , self.target_column)
 
     def predict_by_row(self , dic_choice):
         dic_res = {}
