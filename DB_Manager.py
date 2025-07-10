@@ -11,8 +11,8 @@ import importlib.util
 class DB_Manager:
     def __init__(self):
         self.file_to_class = {
-            "classified-computer_csv.py": "classified",
-            "classified-phishing_csv.py": "classified"
+            "classified_computer_csv.py": "classified",
+            "classified_phishing_csv.py": "classified"
         }
 
     def show_all_DB(self):
