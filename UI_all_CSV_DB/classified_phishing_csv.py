@@ -1,3 +1,5 @@
+import altair
+
 import DATA_CSV
 import pandas as pd
 import Test
@@ -21,7 +23,16 @@ class classified:
         for target, val in self.dic_percentages.items():
             predict = 1
             for column, val_column in dic_input.items():
-                predict *= val[column][val_column]
+                try:
+                    print(int(val_column))
+                    print(val[column])
+                    print(column)
+                    predict *= val[column][int(val_column)]
+
+                except:
+                    predict *= val[column][val_column]
+
+
             target_percent = (self.dic_detiels_target[target]) / (sum(self.dic_detiels_target.values()))
             predict *= target_percent
             dic_res[target] = predict
