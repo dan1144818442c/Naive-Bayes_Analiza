@@ -6,9 +6,9 @@ import logging_.Logging
 
 
 class classified:
-    def __init__(self  ,data_frame ):
+    def __init__(self  ,data_frame  , target_column = False):
         self.Accuracy_percentages = Test.test(data_frame).check_good()
-        self.Naive_Bayes = class_Naive_Bayes.Naive_Bayes(data_frame)
+        self.Naive_Bayes = class_Naive_Bayes.Naive_Bayes(data_frame,target_column)
         self.dic_percentages = self.Naive_Bayes.get_dic_after_updetes()
         self.dic_detiels_target = self.Naive_Bayes.dic_detiels_target
         self.name_target_column = self.Naive_Bayes.target_column

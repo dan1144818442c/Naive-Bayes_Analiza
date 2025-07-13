@@ -298,3 +298,1129 @@ Identifies according to a given dictionary.     : 11:26:57
 Sends a dictionary from the server to the classifier and receives a response     : 11:26:58
 
 Identifies according to a given dictionary.     : 11:26:58
+
+Sends a dictionary from the server to the classifier and receives a response     : 11:32:04
+
+Identifies according to a given dictionary.     : 11:32:04
+
+Checks the success rate of the classifier     : 11:33:43
+
+update the dictionary if_have_zero.     : 11:33:43
+
+Creates a dictionary full of values with the probability     : 11:33:43
+
+update the dictionary if_have_zero.     : 11:33:43
+
+Creates a dictionary full of values with the probability     : 11:33:43
+
+Checks the success rate of the classifier     : 11:33:43
+
+update the dictionary if_have_zero.     : 11:33:43
+
+Creates a dictionary full of values with the probability     : 11:33:43
+
+update the dictionary if_have_zero.     : 11:33:43
+
+Creates a dictionary full of values with the probability     : 11:33:43
+
+Load the correct classifier's class.     : 11:33:53
+
+Load the correct classifier's class.     : 11:35:44
+
+Load the correct classifier's class.     : 11:35:57
+
+Load the correct classifier's class.     : 11:36:31
+
+Checks the success rate of the classifier     : 11:36:42
+
+update the dictionary if_have_zero.     : 11:36:42
+
+Creates a dictionary full of values with the probability     : 11:36:42
+
+update the dictionary if_have_zero.     : 11:36:42
+
+Creates a dictionary full of values with the probability     : 11:36:42
+
+Created successfully classified     : 11:36:42
+
+Prompts the user for values to create a dictionary     : 11:36:42
+
+Load the correct classifier's class.     : 11:36:49
+
+Checks the success rate of the classifier     : 11:36:53
+
+update the dictionary if_have_zero.     : 11:36:53
+
+Creates a dictionary full of values with the probability     : 11:36:53
+
+update the dictionary if_have_zero.     : 11:36:53
+
+Creates a dictionary full of values with the probability     : 11:36:53
+
+Created successfully classified     : 11:36:53
+
+Prompts the user for values to create a dictionary     : 11:36:53
+
+Sends a dictionary from the server to the classifier and receives a response     : 11:37:36
+
+Identifies according to a given dictionary.     : 11:37:36
+
+Sends a dictionary from the server to the classifier and receives a response     : 11:37:58
+
+Identifies according to a given dictionary.     : 11:37:58
+
+Sends a dictionary from the server to the classifier and receives a response     : 12:03:14
+
+Identifies according to a given dictionary.     : 12:03:14
+
+Load the correct classifier's class.     : 12:11:47
+
+Load the correct classifier's class.     : 12:11:52
+
+Load the correct classifier's class.     : 12:11:57
+
+Load the correct classifier's class.     : 12:14:49
+
+Load the correct classifier's class.     : 12:14:49
+
+Load the correct classifier's class.     : 12:16:01
+
+Load the correct classifier's class.     : 12:16:02
+
+Load the correct classifier's class.     : 12:16:45
+
+Load the correct classifier's class.     : 12:20:08
+
+Load the correct classifier's class.     : 12:21:48
+
+Load the correct classifier's class.     : 12:34:35
+
+Load the correct classifier's class.     : 12:36:01
+
+Checks the success rate of the classifier     : 12:36:39
+
+update the dictionary if_have_zero.     : 12:36:39
+
+Creates a dictionary full of values with the probability     : 12:36:39
+
+Checks the success rate of the classifier     : 12:36:51
+
+update the dictionary if_have_zero.     : 12:36:51
+
+Creates a dictionary full of values with the probability     : 12:36:51
+
+Load the correct classifier's class.     : 12:42:26
+
+Checks the success rate of the classifier     : 12:42:30
+
+update the dictionary if_have_zero.     : 12:42:30
+
+Creates a dictionary full of values with the probability     : 12:42:30
+
+Load the correct classifier's class.     : 12:44:09
+
+Checks the success rate of the classifier     : 12:44:11
+
+update the dictionary if_have_zero.     : 12:44:11
+
+Creates a dictionary full of values with the probability     : 12:44:11
+
+Load the correct classifier's class.     : 12:49:21
+
+Checks the success rate of the classifier     : 12:49:24
+
+update the dictionary if_have_zero.     : 12:49:24
+
+Creates a dictionary full of values with the probability     : 12:49:24
+
+Load the correct classifier's class.     : 12:50:12
+
+Checks the success rate of the classifier     : 12:50:14
+
+update the dictionary if_have_zero.     : 12:50:14
+
+Creates a dictionary full of values with the probability     : 12:50:14
+
+update the dictionary if_have_zero.     : 12:50:14
+
+Creates a dictionary full of values with the probability     : 12:50:14
+
+Checks the success rate of the classifier     : 12:50:14
+
+update the dictionary if_have_zero.     : 12:50:14
+
+Creates a dictionary full of values with the probability     : 12:50:14
+
+update the dictionary if_have_zero.     : 12:50:14
+
+Creates a dictionary full of values with the probability     : 12:50:14
+
+Created successfully classified     : 12:50:14
+
+Prompts the user for values to create a dictionary     : 12:50:14
+
+Load the correct classifier's class.     : 12:50:30
+
+Checks the success rate of the classifier     : 12:50:34
+
+update the dictionary if_have_zero.     : 12:50:34
+
+Creates a dictionary full of values with the probability     : 12:50:34
+
+update the dictionary if_have_zero.     : 12:50:34
+
+Creates a dictionary full of values with the probability     : 12:50:34
+
+Created successfully classified     : 12:50:34
+
+Prompts the user for values to create a dictionary     : 12:50:34
+
+Load the correct classifier's class.     : 12:50:38
+
+Checks the success rate of the classifier     : 12:50:43
+
+update the dictionary if_have_zero.     : 12:50:43
+
+Creates a dictionary full of values with the probability     : 12:50:43
+
+update the dictionary if_have_zero.     : 12:50:43
+
+Creates a dictionary full of values with the probability     : 12:50:43
+
+Checks the success rate of the classifier     : 12:50:43
+
+update the dictionary if_have_zero.     : 12:50:43
+
+Creates a dictionary full of values with the probability     : 12:50:43
+
+update the dictionary if_have_zero.     : 12:50:43
+
+Creates a dictionary full of values with the probability     : 12:50:43
+
+Created successfully classified     : 12:50:43
+
+Prompts the user for values to create a dictionary     : 12:50:43
+
+predict according to dictionary     : 12:53:51
+
+Load the correct classifier's class.     : 12:54:12
+
+Load the correct classifier's class.     : 12:54:22
+
+Checks the success rate of the classifier     : 12:54:25
+
+update the dictionary if_have_zero.     : 12:54:25
+
+Creates a dictionary full of values with the probability     : 12:54:25
+
+update the dictionary if_have_zero.     : 12:54:25
+
+Creates a dictionary full of values with the probability     : 12:54:25
+
+Checks the success rate of the classifier     : 12:54:25
+
+update the dictionary if_have_zero.     : 12:54:25
+
+Creates a dictionary full of values with the probability     : 12:54:25
+
+update the dictionary if_have_zero.     : 12:54:25
+
+Creates a dictionary full of values with the probability     : 12:54:25
+
+Created successfully classified     : 12:54:25
+
+Prompts the user for values to create a dictionary     : 12:54:25
+
+Load the correct classifier's class.     : 12:54:37
+
+Checks the success rate of the classifier     : 12:54:40
+
+update the dictionary if_have_zero.     : 12:54:40
+
+Creates a dictionary full of values with the probability     : 12:54:40
+
+update the dictionary if_have_zero.     : 12:54:41
+
+Creates a dictionary full of values with the probability     : 12:54:41
+
+Created successfully classified     : 12:54:41
+
+Prompts the user for values to create a dictionary     : 12:54:41
+
+Load the correct classifier's class.     : 12:55:14
+
+Checks the success rate of the classifier     : 13:01:48
+
+update the dictionary if_have_zero.     : 13:01:48
+
+Creates a dictionary full of values with the probability     : 13:01:48
+
+update the dictionary if_have_zero.     : 13:01:48
+
+Creates a dictionary full of values with the probability     : 13:01:48
+
+Checks the success rate of the classifier     : 13:01:48
+
+update the dictionary if_have_zero.     : 13:01:48
+
+Creates a dictionary full of values with the probability     : 13:01:48
+
+update the dictionary if_have_zero.     : 13:01:48
+
+Creates a dictionary full of values with the probability     : 13:01:48
+
+Created successfully classified     : 13:01:48
+
+Prompts the user for values to create a dictionary     : 13:01:48
+
+Load the correct classifier's class.     : 13:06:00
+
+Load the correct classifier's class.     : 13:06:54
+
+Load the correct classifier's class.     : 13:08:18
+
+Load the correct classifier's class.     : 13:09:18
+
+Checks the success rate of the classifier     : 13:09:21
+
+update the dictionary if_have_zero.     : 13:09:21
+
+Creates a dictionary full of values with the probability     : 13:09:21
+
+Load the correct classifier's class.     : 13:09:32
+
+Checks the success rate of the classifier     : 13:09:33
+
+update the dictionary if_have_zero.     : 13:09:33
+
+Creates a dictionary full of values with the probability     : 13:09:33
+
+Load the correct classifier's class.     : 13:15:33
+
+Checks the success rate of the classifier     : 13:15:36
+
+update the dictionary if_have_zero.     : 13:15:36
+
+Creates a dictionary full of values with the probability     : 13:15:36
+
+Load the correct classifier's class.     : 13:17:25
+
+Checks the success rate of the classifier     : 13:17:26
+
+update the dictionary if_have_zero.     : 13:17:26
+
+Creates a dictionary full of values with the probability     : 13:17:26
+
+update the dictionary if_have_zero.     : 13:17:26
+
+Creates a dictionary full of values with the probability     : 13:17:26
+
+Checks the success rate of the classifier     : 13:17:26
+
+update the dictionary if_have_zero.     : 13:17:26
+
+Creates a dictionary full of values with the probability     : 13:17:26
+
+update the dictionary if_have_zero.     : 13:17:26
+
+Creates a dictionary full of values with the probability     : 13:17:26
+
+Created successfully classified     : 13:17:26
+
+Prompts the user for values to create a dictionary     : 13:17:26
+
+Load the correct classifier's class.     : 13:22:28
+
+Checks the success rate of the classifier     : 13:22:31
+
+update the dictionary if_have_zero.     : 13:22:31
+
+Creates a dictionary full of values with the probability     : 13:22:31
+
+update the dictionary if_have_zero.     : 13:22:31
+
+Creates a dictionary full of values with the probability     : 13:22:31
+
+Checks the success rate of the classifier     : 13:22:31
+
+update the dictionary if_have_zero.     : 13:22:31
+
+Creates a dictionary full of values with the probability     : 13:22:31
+
+update the dictionary if_have_zero.     : 13:22:31
+
+Creates a dictionary full of values with the probability     : 13:22:31
+
+Created successfully classified     : 13:22:31
+
+Prompts the user for values to create a dictionary     : 13:22:31
+
+predict according to dictionary     : 13:22:36
+
+Load the correct classifier's class.     : 13:22:42
+
+Checks the success rate of the classifier     : 13:22:43
+
+update the dictionary if_have_zero.     : 13:22:43
+
+Creates a dictionary full of values with the probability     : 13:22:43
+
+update the dictionary if_have_zero.     : 13:22:43
+
+Creates a dictionary full of values with the probability     : 13:22:43
+
+Checks the success rate of the classifier     : 13:22:43
+
+update the dictionary if_have_zero.     : 13:22:43
+
+Creates a dictionary full of values with the probability     : 13:22:43
+
+update the dictionary if_have_zero.     : 13:22:43
+
+Creates a dictionary full of values with the probability     : 13:22:43
+
+Created successfully classified     : 13:22:43
+
+Prompts the user for values to create a dictionary     : 13:22:43
+
+predict according to dictionary     : 13:22:45
+
+Load the correct classifier's class.     : 13:23:24
+
+Checks the success rate of the classifier     : 13:23:26
+
+update the dictionary if_have_zero.     : 13:23:26
+
+Creates a dictionary full of values with the probability     : 13:23:26
+
+update the dictionary if_have_zero.     : 13:23:26
+
+Creates a dictionary full of values with the probability     : 13:23:26
+
+Checks the success rate of the classifier     : 13:23:26
+
+update the dictionary if_have_zero.     : 13:23:26
+
+Creates a dictionary full of values with the probability     : 13:23:26
+
+update the dictionary if_have_zero.     : 13:23:26
+
+Creates a dictionary full of values with the probability     : 13:23:26
+
+Created successfully classified     : 13:23:26
+
+Prompts the user for values to create a dictionary     : 13:23:26
+
+predict according to dictionary     : 13:23:31
+
+Load the correct classifier's class.     : 13:23:35
+
+Checks the success rate of the classifier     : 13:23:38
+
+update the dictionary if_have_zero.     : 13:23:38
+
+Creates a dictionary full of values with the probability     : 13:23:38
+
+update the dictionary if_have_zero.     : 13:23:38
+
+Creates a dictionary full of values with the probability     : 13:23:38
+
+Created successfully classified     : 13:23:38
+
+Prompts the user for values to create a dictionary     : 13:23:38
+
+Load the correct classifier's class.     : 13:29:13
+
+Checks the success rate of the classifier     : 13:29:16
+
+update the dictionary if_have_zero.     : 13:29:16
+
+Creates a dictionary full of values with the probability     : 13:29:16
+
+update the dictionary if_have_zero.     : 13:29:16
+
+Creates a dictionary full of values with the probability     : 13:29:16
+
+Checks the success rate of the classifier     : 13:29:16
+
+update the dictionary if_have_zero.     : 13:29:16
+
+Creates a dictionary full of values with the probability     : 13:29:16
+
+update the dictionary if_have_zero.     : 13:29:16
+
+Creates a dictionary full of values with the probability     : 13:29:16
+
+Created successfully classified     : 13:29:16
+
+Prompts the user for values to create a dictionary     : 13:29:16
+
+Load the correct classifier's class.     : 13:30:17
+
+Checks the success rate of the classifier     : 13:30:20
+
+update the dictionary if_have_zero.     : 13:30:20
+
+Creates a dictionary full of values with the probability     : 13:30:20
+
+update the dictionary if_have_zero.     : 13:30:20
+
+Creates a dictionary full of values with the probability     : 13:30:20
+
+Checks the success rate of the classifier     : 13:30:20
+
+update the dictionary if_have_zero.     : 13:30:20
+
+Creates a dictionary full of values with the probability     : 13:30:20
+
+update the dictionary if_have_zero.     : 13:30:20
+
+Creates a dictionary full of values with the probability     : 13:30:20
+
+Created successfully classified     : 13:30:20
+
+Prompts the user for values to create a dictionary     : 13:30:20
+
+Load the correct classifier's class.     : 13:38:35
+
+Checks the success rate of the classifier     : 13:38:37
+
+update the dictionary if_have_zero.     : 13:38:37
+
+Creates a dictionary full of values with the probability     : 13:38:37
+
+Load the correct classifier's class.     : 13:39:21
+
+Checks the success rate of the classifier     : 13:39:22
+
+update the dictionary if_have_zero.     : 13:39:22
+
+Creates a dictionary full of values with the probability     : 13:39:22
+
+update the dictionary if_have_zero.     : 13:39:22
+
+Creates a dictionary full of values with the probability     : 13:39:22
+
+Checks the success rate of the classifier     : 13:39:22
+
+update the dictionary if_have_zero.     : 13:39:22
+
+Creates a dictionary full of values with the probability     : 13:39:22
+
+update the dictionary if_have_zero.     : 13:39:22
+
+Creates a dictionary full of values with the probability     : 13:39:22
+
+Created successfully classified     : 13:39:23
+
+Prompts the user for values to create a dictionary     : 13:39:23
+
+Load the correct classifier's class.     : 13:41:22
+
+Checks the success rate of the classifier     : 13:41:24
+
+update the dictionary if_have_zero.     : 13:41:24
+
+Creates a dictionary full of values with the probability     : 13:41:24
+
+update the dictionary if_have_zero.     : 13:41:24
+
+Creates a dictionary full of values with the probability     : 13:41:24
+
+Checks the success rate of the classifier     : 13:41:24
+
+update the dictionary if_have_zero.     : 13:41:24
+
+Creates a dictionary full of values with the probability     : 13:41:24
+
+update the dictionary if_have_zero.     : 13:41:24
+
+Creates a dictionary full of values with the probability     : 13:41:24
+
+Created successfully classified     : 13:41:24
+
+Prompts the user for values to create a dictionary     : 13:41:24
+
+Load the correct classifier's class.     : 13:42:56
+
+Checks the success rate of the classifier     : 13:43:00
+
+update the dictionary if_have_zero.     : 13:43:00
+
+Creates a dictionary full of values with the probability     : 13:43:00
+
+update the dictionary if_have_zero.     : 13:43:00
+
+Creates a dictionary full of values with the probability     : 13:43:00
+
+Created successfully classified     : 13:43:00
+
+Prompts the user for values to create a dictionary     : 13:43:00
+
+Load the correct classifier's class.     : 13:43:05
+
+Load the correct classifier's class.     : 13:44:44
+
+Load the correct classifier's class.     : 13:45:35
+
+Checks the success rate of the classifier     : 13:45:38
+
+update the dictionary if_have_zero.     : 13:45:38
+
+Creates a dictionary full of values with the probability     : 13:45:38
+
+Load the correct classifier's class.     : 13:46:38
+
+Checks the success rate of the classifier     : 13:46:40
+
+update the dictionary if_have_zero.     : 13:46:40
+
+Creates a dictionary full of values with the probability     : 13:46:40
+
+Load the correct classifier's class.     : 13:47:11
+
+Checks the success rate of the classifier     : 13:47:13
+
+update the dictionary if_have_zero.     : 13:47:13
+
+Creates a dictionary full of values with the probability     : 13:47:13
+
+Load the correct classifier's class.     : 13:48:32
+
+Checks the success rate of the classifier     : 13:48:37
+
+update the dictionary if_have_zero.     : 13:48:37
+
+Creates a dictionary full of values with the probability     : 13:48:37
+
+Load the correct classifier's class.     : 13:48:41
+
+Checks the success rate of the classifier     : 13:48:52
+
+update the dictionary if_have_zero.     : 13:48:52
+
+Creates a dictionary full of values with the probability     : 13:48:52
+
+Load the correct classifier's class.     : 13:49:08
+
+Checks the success rate of the classifier     : 13:49:10
+
+update the dictionary if_have_zero.     : 13:49:10
+
+Creates a dictionary full of values with the probability     : 13:49:10
+
+Load the correct classifier's class.     : 13:51:37
+
+Checks the success rate of the classifier     : 13:51:40
+
+update the dictionary if_have_zero.     : 13:51:40
+
+Creates a dictionary full of values with the probability     : 13:51:40
+
+Load the correct classifier's class.     : 13:52:44
+
+Checks the success rate of the classifier     : 13:52:46
+
+update the dictionary if_have_zero.     : 13:52:46
+
+Creates a dictionary full of values with the probability     : 13:52:46
+
+Load the correct classifier's class.     : 13:56:17
+
+Checks the success rate of the classifier     : 13:56:20
+
+update the dictionary if_have_zero.     : 13:56:20
+
+Creates a dictionary full of values with the probability     : 13:56:20
+
+update the dictionary if_have_zero.     : 13:56:20
+
+Creates a dictionary full of values with the probability     : 13:56:20
+
+Checks the success rate of the classifier     : 13:56:20
+
+update the dictionary if_have_zero.     : 13:56:20
+
+Creates a dictionary full of values with the probability     : 13:56:20
+
+update the dictionary if_have_zero.     : 13:56:21
+
+Creates a dictionary full of values with the probability     : 13:56:21
+
+Created successfully classified     : 13:56:21
+
+Prompts the user for values to create a dictionary     : 13:56:21
+
+Load the correct classifier's class.     : 13:56:43
+
+Checks the success rate of the classifier     : 13:56:45
+
+update the dictionary if_have_zero.     : 13:56:45
+
+Creates a dictionary full of values with the probability     : 13:56:45
+
+update the dictionary if_have_zero.     : 13:56:45
+
+Creates a dictionary full of values with the probability     : 13:56:45
+
+Created successfully classified     : 13:56:45
+
+Prompts the user for values to create a dictionary     : 13:56:45
+
+Load the correct classifier's class.     : 13:56:50
+
+Checks the success rate of the classifier     : 13:56:51
+
+update the dictionary if_have_zero.     : 13:56:51
+
+Creates a dictionary full of values with the probability     : 13:56:51
+
+Load the correct classifier's class.     : 13:56:56
+
+Checks the success rate of the classifier     : 13:56:58
+
+update the dictionary if_have_zero.     : 13:56:58
+
+Creates a dictionary full of values with the probability     : 13:56:58
+
+Load the correct classifier's class.     : 13:57:08
+
+Checks the success rate of the classifier     : 13:57:09
+
+update the dictionary if_have_zero.     : 13:57:09
+
+Creates a dictionary full of values with the probability     : 13:57:09
+
+update the dictionary if_have_zero.     : 13:57:09
+
+Creates a dictionary full of values with the probability     : 13:57:09
+
+Checks the success rate of the classifier     : 13:57:10
+
+update the dictionary if_have_zero.     : 13:57:10
+
+Creates a dictionary full of values with the probability     : 13:57:10
+
+update the dictionary if_have_zero.     : 13:57:10
+
+Creates a dictionary full of values with the probability     : 13:57:10
+
+Created successfully classified     : 13:57:10
+
+Prompts the user for values to create a dictionary     : 13:57:10
+
+Load the correct classifier's class.     : 13:57:18
+
+Checks the success rate of the classifier     : 13:57:22
+
+update the dictionary if_have_zero.     : 13:57:22
+
+Creates a dictionary full of values with the probability     : 13:57:22
+
+Load the correct classifier's class.     : 13:59:03
+
+Checks the success rate of the classifier     : 13:59:06
+
+update the dictionary if_have_zero.     : 13:59:06
+
+Creates a dictionary full of values with the probability     : 13:59:06
+
+update the dictionary if_have_zero.     : 13:59:06
+
+Creates a dictionary full of values with the probability     : 13:59:06
+
+Checks the success rate of the classifier     : 13:59:06
+
+update the dictionary if_have_zero.     : 13:59:06
+
+Creates a dictionary full of values with the probability     : 13:59:06
+
+update the dictionary if_have_zero.     : 13:59:06
+
+Creates a dictionary full of values with the probability     : 13:59:06
+
+Created successfully classified     : 13:59:06
+
+Prompts the user for values to create a dictionary     : 13:59:06
+
+Load the correct classifier's class.     : 13:59:16
+
+Checks the success rate of the classifier     : 13:59:18
+
+update the dictionary if_have_zero.     : 13:59:18
+
+Creates a dictionary full of values with the probability     : 13:59:18
+
+update the dictionary if_have_zero.     : 13:59:18
+
+Creates a dictionary full of values with the probability     : 13:59:18
+
+Checks the success rate of the classifier     : 13:59:18
+
+update the dictionary if_have_zero.     : 13:59:18
+
+Creates a dictionary full of values with the probability     : 13:59:18
+
+update the dictionary if_have_zero.     : 13:59:18
+
+Creates a dictionary full of values with the probability     : 13:59:18
+
+Created successfully classified     : 13:59:18
+
+Prompts the user for values to create a dictionary     : 13:59:18
+
+Load the correct classifier's class.     : 13:59:46
+
+Checks the success rate of the classifier     : 13:59:48
+
+update the dictionary if_have_zero.     : 13:59:48
+
+Creates a dictionary full of values with the probability     : 13:59:48
+
+update the dictionary if_have_zero.     : 13:59:48
+
+Creates a dictionary full of values with the probability     : 13:59:48
+
+Checks the success rate of the classifier     : 13:59:48
+
+update the dictionary if_have_zero.     : 13:59:48
+
+Creates a dictionary full of values with the probability     : 13:59:48
+
+update the dictionary if_have_zero.     : 13:59:48
+
+Creates a dictionary full of values with the probability     : 13:59:48
+
+Created successfully classified     : 13:59:48
+
+Prompts the user for values to create a dictionary     : 13:59:48
+
+Load the correct classifier's class.     : 13:59:59
+
+Checks the success rate of the classifier     : 14:00:01
+
+update the dictionary if_have_zero.     : 14:00:01
+
+Creates a dictionary full of values with the probability     : 14:00:01
+
+update the dictionary if_have_zero.     : 14:00:01
+
+Creates a dictionary full of values with the probability     : 14:00:01
+
+Checks the success rate of the classifier     : 14:00:01
+
+update the dictionary if_have_zero.     : 14:00:01
+
+Creates a dictionary full of values with the probability     : 14:00:01
+
+update the dictionary if_have_zero.     : 14:00:01
+
+Creates a dictionary full of values with the probability     : 14:00:01
+
+Created successfully classified     : 14:00:01
+
+Prompts the user for values to create a dictionary     : 14:00:01
+
+Load the correct classifier's class.     : 14:00:05
+
+Checks the success rate of the classifier     : 14:00:09
+
+update the dictionary if_have_zero.     : 14:00:09
+
+Creates a dictionary full of values with the probability     : 14:00:09
+
+update the dictionary if_have_zero.     : 14:00:09
+
+Creates a dictionary full of values with the probability     : 14:00:09
+
+Created successfully classified     : 14:00:09
+
+Prompts the user for values to create a dictionary     : 14:00:09
+
+Load the correct classifier's class.     : 14:01:15
+
+Checks the success rate of the classifier     : 14:01:17
+
+update the dictionary if_have_zero.     : 14:01:17
+
+Creates a dictionary full of values with the probability     : 14:01:17
+
+update the dictionary if_have_zero.     : 14:01:17
+
+Creates a dictionary full of values with the probability     : 14:01:17
+
+Checks the success rate of the classifier     : 14:01:17
+
+update the dictionary if_have_zero.     : 14:01:17
+
+Creates a dictionary full of values with the probability     : 14:01:17
+
+update the dictionary if_have_zero.     : 14:01:17
+
+Creates a dictionary full of values with the probability     : 14:01:17
+
+Created successfully classified     : 14:01:17
+
+Prompts the user for values to create a dictionary     : 14:01:17
+
+Load the correct classifier's class.     : 14:04:49
+
+Checks the success rate of the classifier     : 14:04:51
+
+update the dictionary if_have_zero.     : 14:04:51
+
+Creates a dictionary full of values with the probability     : 14:04:51
+
+update the dictionary if_have_zero.     : 14:04:51
+
+Creates a dictionary full of values with the probability     : 14:04:51
+
+Checks the success rate of the classifier     : 14:04:51
+
+update the dictionary if_have_zero.     : 14:04:51
+
+Creates a dictionary full of values with the probability     : 14:04:51
+
+update the dictionary if_have_zero.     : 14:04:51
+
+Creates a dictionary full of values with the probability     : 14:04:51
+
+Created successfully classified     : 14:04:51
+
+Prompts the user for values to create a dictionary     : 14:04:51
+
+Load the correct classifier's class.     : 14:05:31
+
+Checks the success rate of the classifier     : 14:05:33
+
+update the dictionary if_have_zero.     : 14:05:33
+
+Creates a dictionary full of values with the probability     : 14:05:33
+
+update the dictionary if_have_zero.     : 14:05:33
+
+Creates a dictionary full of values with the probability     : 14:05:33
+
+Checks the success rate of the classifier     : 14:05:33
+
+update the dictionary if_have_zero.     : 14:05:33
+
+Creates a dictionary full of values with the probability     : 14:05:33
+
+update the dictionary if_have_zero.     : 14:05:33
+
+Creates a dictionary full of values with the probability     : 14:05:33
+
+Created successfully classified     : 14:05:33
+
+Prompts the user for values to create a dictionary     : 14:05:33
+
+Load the correct classifier's class.     : 14:07:42
+
+Checks the success rate of the classifier     : 14:07:43
+
+update the dictionary if_have_zero.     : 14:07:43
+
+Creates a dictionary full of values with the probability     : 14:07:43
+
+update the dictionary if_have_zero.     : 14:07:43
+
+Creates a dictionary full of values with the probability     : 14:07:43
+
+Checks the success rate of the classifier     : 14:07:43
+
+update the dictionary if_have_zero.     : 14:07:43
+
+Creates a dictionary full of values with the probability     : 14:07:43
+
+update the dictionary if_have_zero.     : 14:07:43
+
+Creates a dictionary full of values with the probability     : 14:07:43
+
+Created successfully classified     : 14:07:43
+
+Prompts the user for values to create a dictionary     : 14:07:43
+
+Load the correct classifier's class.     : 14:08:33
+
+Checks the success rate of the classifier     : 14:08:35
+
+update the dictionary if_have_zero.     : 14:08:35
+
+Creates a dictionary full of values with the probability     : 14:08:35
+
+update the dictionary if_have_zero.     : 14:08:35
+
+Creates a dictionary full of values with the probability     : 14:08:35
+
+Checks the success rate of the classifier     : 14:08:35
+
+update the dictionary if_have_zero.     : 14:08:35
+
+Creates a dictionary full of values with the probability     : 14:08:35
+
+update the dictionary if_have_zero.     : 14:08:35
+
+Creates a dictionary full of values with the probability     : 14:08:35
+
+Created successfully classified     : 14:08:35
+
+Prompts the user for values to create a dictionary     : 14:08:35
+
+Load the correct classifier's class.     : 14:08:55
+
+Checks the success rate of the classifier     : 14:08:58
+
+update the dictionary if_have_zero.     : 14:08:58
+
+Creates a dictionary full of values with the probability     : 14:08:58
+
+update the dictionary if_have_zero.     : 14:08:58
+
+Creates a dictionary full of values with the probability     : 14:08:58
+
+Checks the success rate of the classifier     : 14:08:58
+
+update the dictionary if_have_zero.     : 14:08:58
+
+Creates a dictionary full of values with the probability     : 14:08:58
+
+update the dictionary if_have_zero.     : 14:08:58
+
+Creates a dictionary full of values with the probability     : 14:08:58
+
+Created successfully classified     : 14:08:58
+
+Prompts the user for values to create a dictionary     : 14:08:58
+
+Load the correct classifier's class.     : 14:09:32
+
+Checks the success rate of the classifier     : 14:09:36
+
+update the dictionary if_have_zero.     : 14:09:36
+
+Creates a dictionary full of values with the probability     : 14:09:36
+
+update the dictionary if_have_zero.     : 14:09:36
+
+Creates a dictionary full of values with the probability     : 14:09:36
+
+Checks the success rate of the classifier     : 14:09:36
+
+update the dictionary if_have_zero.     : 14:09:36
+
+Creates a dictionary full of values with the probability     : 14:09:36
+
+update the dictionary if_have_zero.     : 14:09:36
+
+Creates a dictionary full of values with the probability     : 14:09:36
+
+Created successfully classified     : 14:09:36
+
+Prompts the user for values to create a dictionary     : 14:09:36
+
+Load the correct classifier's class.     : 14:10:35
+
+Checks the success rate of the classifier     : 14:10:37
+
+update the dictionary if_have_zero.     : 14:10:37
+
+Creates a dictionary full of values with the probability     : 14:10:37
+
+update the dictionary if_have_zero.     : 14:10:37
+
+Creates a dictionary full of values with the probability     : 14:10:37
+
+Checks the success rate of the classifier     : 14:10:37
+
+update the dictionary if_have_zero.     : 14:10:37
+
+Creates a dictionary full of values with the probability     : 14:10:37
+
+update the dictionary if_have_zero.     : 14:10:37
+
+Creates a dictionary full of values with the probability     : 14:10:37
+
+Created successfully classified     : 14:10:37
+
+Prompts the user for values to create a dictionary     : 14:10:37
+
+Load the correct classifier's class.     : 14:10:59
+
+Checks the success rate of the classifier     : 14:11:02
+
+update the dictionary if_have_zero.     : 14:11:02
+
+Creates a dictionary full of values with the probability     : 14:11:02
+
+update the dictionary if_have_zero.     : 14:11:02
+
+Creates a dictionary full of values with the probability     : 14:11:02
+
+Checks the success rate of the classifier     : 14:11:02
+
+update the dictionary if_have_zero.     : 14:11:02
+
+Creates a dictionary full of values with the probability     : 14:11:02
+
+update the dictionary if_have_zero.     : 14:11:02
+
+Creates a dictionary full of values with the probability     : 14:11:02
+
+Created successfully classified     : 14:11:02
+
+Prompts the user for values to create a dictionary     : 14:11:02
+
+Load the correct classifier's class.     : 14:11:20
+
+Load the correct classifier's class.     : 14:11:35
+
+Checks the success rate of the classifier     : 14:11:37
+
+update the dictionary if_have_zero.     : 14:11:37
+
+Creates a dictionary full of values with the probability     : 14:11:37
+
+update the dictionary if_have_zero.     : 14:11:37
+
+Creates a dictionary full of values with the probability     : 14:11:37
+
+Checks the success rate of the classifier     : 14:11:37
+
+update the dictionary if_have_zero.     : 14:11:37
+
+Creates a dictionary full of values with the probability     : 14:11:37
+
+update the dictionary if_have_zero.     : 14:11:37
+
+Creates a dictionary full of values with the probability     : 14:11:37
+
+Created successfully classified     : 14:11:37
+
+Prompts the user for values to create a dictionary     : 14:11:37
+
+Load the correct classifier's class.     : 14:12:44
+
+Checks the success rate of the classifier     : 14:12:47
+
+update the dictionary if_have_zero.     : 14:12:47
+
+Creates a dictionary full of values with the probability     : 14:12:47
+
+update the dictionary if_have_zero.     : 14:12:47
+
+Creates a dictionary full of values with the probability     : 14:12:47
+
+Checks the success rate of the classifier     : 14:12:47
+
+update the dictionary if_have_zero.     : 14:12:47
+
+Creates a dictionary full of values with the probability     : 14:12:47
+
+update the dictionary if_have_zero.     : 14:12:47
+
+Creates a dictionary full of values with the probability     : 14:12:47
+
+Created successfully classified     : 14:12:47
+
+Prompts the user for values to create a dictionary     : 14:12:47

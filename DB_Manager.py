@@ -11,7 +11,8 @@ class DB_Manager:
     def __init__(self):
         self.file_to_class = {
             "classified_computer_csv.py": "classified",
-            "classified_phishing_csv.py": "classified"
+            "classified_phishing_csv.py": "classified",
+            "classified_titanic.py": "classified"
         }
 
     def show_all_DB(self):
@@ -28,11 +29,23 @@ class DB_Manager:
         Logging.Log("Load the correct classifier's class.")
         files = self.show_all_DB()
         # try:
-        choice = int(input("Enter your choice: "))
-        selected_file = files[choice]
+
+        while True:
+            try:
+                choice = int(input(f"Enter your choice (0 to {len(files) - 1}): "))
+                if 0 <= choice < len(files):
+                    selected_file = files[choice]
+                    print(f"You selected: {selected_file}")
+                    break
+                else:
+                    print("Number out of range. Try again.")
+            except ValueError:
+                print("Invalid input. Please enter a number.")
+
         full_path = os.path.join("UI_all_CSV_DB", selected_file)
 
         class_name = self.file_to_class.get(selected_file)
+        print(class_name)
         if not class_name:
             print("Unknown class for selected file.")
             return None

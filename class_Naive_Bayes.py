@@ -9,9 +9,11 @@ class Naive_Bayes:
     def __init__(self , df , target_column =False ):
         self.df = df
         self.dict_ = {}
-        # target_column = input("enter target coulmn")
-        # if not target_column or target_column not in self.df.columns:
-        self.target_column = self.df.columns[-1]
+        if not target_column and target_column not in self.df.columns:
+
+            self.target_column = self.df.columns[-1]
+        else:
+            self.target_column = target_column
         self.dic_detiels_target = self.get_dic_of_detelis_Target_variable()
 
     def get_dic_after_updetes(self):
@@ -130,6 +132,12 @@ class Naive_Bayes:
         for target_name, value_target in self.dict_.items():
             predict_num = 1
             for column, val_column in value_target.items():
+                try:
+                    predict_num *= val_column[dic_choice[column]]
+                except KeyError as e:
+                    print(f"KeyError: column={column}, value={dic_choice[column]}")
+                    raise
+
                 if column != self.target_column:
                     predict_num *= val_column[dic_choice[column]]
             target_percent = (self.dic_detiels_target[target_name]) / self.get_len_dict_target_val()
