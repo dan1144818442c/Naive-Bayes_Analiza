@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 
 import DATA_CSV.clean_data
+import logging_.Logging
 
 
 class Naive_Bayes:
@@ -56,6 +57,7 @@ class Naive_Bayes:
         return dic
 
     def fiil_dict(self):
+        logging_.Logging.Log("Creates a dictionary full of values with the probability")
         dict_with_0 = self.get_all_dic_with_0()
 
         for key_terget  , val in dict_with_0.items():
@@ -77,6 +79,8 @@ class Naive_Bayes:
                 return True
         return False
     def  update_if_have_zero(self):
+        logging_.Logging.Log("update the dictionary if_have_zero.")
+
         self.fiil_dict()
         for key_terget, val in self.dict_.items():
             have_zero_level_column = False
@@ -99,6 +103,7 @@ class Naive_Bayes:
         return count
 
     def get_dic_by_input(self):
+        logging_.Logging.Log("Prompts the user for values to create a dictionary")
         dic_choice = {}
         for target_name , value_target in self.dict_.items():
             for column , val_column in value_target.items():
@@ -107,6 +112,7 @@ class Naive_Bayes:
             break
         return dic_choice
     def predict__by_full_dic_columns(self , dic_choice):
+        logging_.Logging.Log("predict according to dictionary")
         dic_res = {}
         for target_name, value_target in self.dict_.items():
             predict_num = 1

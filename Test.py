@@ -2,14 +2,15 @@ import pandas as pd
 import DATA_CSV.clean_data
 import class_Naive_Bayes
 import  copy
+from sklearn.model_selection import train_test_split
 
+import logging_.Logging
 
 
 class test:
     def __init__(self , df):
         self.len_df = len(df)
-        self.df_30 = df[df.index < int(self.len_df * 0.3)]
-        self.df_70 = df[df.index >= int(self.len_df * 0.3)]
+        self.df_70  , self.df_30 = train_test_split(df, test_size=0.3, random_state=42)
         # self.df_30 = df[df.index>60]
         # self.df_70 = df[df.index<7560]
         self.Naive_Bayes = class_Naive_Bayes.Naive_Bayes(self.df_70)
@@ -24,6 +25,7 @@ class test:
         return list_dic_predict
 
     def check_good(self):
+        logging_.Logging.Log("Checks the success rate of the classifier")
         num = 0
         target_column = self.Naive_Bayes.target_column
         list_dic_predict = self.get_list_dic_predict()

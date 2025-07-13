@@ -16,13 +16,14 @@ class MainApp:
 
 
             print(f"אחוזי הצלחה {instance.Accuracy_percentages}")
-            dic = json.loads(input("enter dic of choice"))
-            res, target_column = manager.predict_by_input(instance=instance , dic_input=dic)
+            # dic = json.loads(input("enter dic of choice"))
+            # res, target_column = manager.predict_by_input(instance=instance , dic_input=dic)
+            res, target_column = manager.predict_by_input(instance=instance )
             print("\n Prediction Result:")
             print(f"The probability that '{target_column}' will be: {res}!!")
             print("#############################################################################\n")
             # except Exception as e:
-            #     print(f"⚠ Error during prediction: {e}")
+            #     print(f"Error during prediction: {e}")
 
             again = input("Would you like to make another prediction? (y/n): ").lower()
             if again != 'y':
