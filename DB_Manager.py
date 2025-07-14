@@ -45,7 +45,7 @@ class DB_Manager:
         full_path = os.path.join("UI_all_CSV_DB", selected_file)
 
         class_name = self.file_to_class.get(selected_file)
-        print(class_name)
+        # print(class_name)
         if not class_name:
             print("Unknown class for selected file.")
             return None
@@ -57,8 +57,8 @@ class DB_Manager:
 
         ClassObj = getattr(module, class_name)
         instance = ClassObj()
-        print(f"Created instance of {class_name}")
-        Logging.Log("Created successfully " + class_name )
+        # print(f"Created instance of {class_name}")
+        Logging.Log("Created successfully instance : " + class_name )
         return instance
 
         # except Exception as e:

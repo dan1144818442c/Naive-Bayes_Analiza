@@ -1,3 +1,4 @@
+import pandas
 import pandas as pd
 import DATA_CSV.clean_data
 import class_Naive_Bayes
@@ -8,20 +9,24 @@ import logging_.Logging
 
 
 class test:
-    def __init__(self , df):
+    def __init__(self , df , target_column = False):
         self.len_df = len(df)
         self.df_70  , self.df_30 = train_test_split(df, test_size=0.3, random_state=42)
         # self.df_30 = df[df.index>60]
         # self.df_70 = df[df.index<7560]
-        self.Naive_Bayes = class_Naive_Bayes.Naive_Bayes(self.df_70)
+        self.Naive_Bayes = class_Naive_Bayes.Naive_Bayes(self.df_70 , target_column=target_column)
         self.list_of_dicts = self.df_30.to_dict(orient='records')
 
 
     def get_list_dic_predict(self):
-        list_dic_predict = copy.deepcopy(self.list_of_dicts)
         self.Naive_Bayes.get_dic_after_updetes()
+        list_dic_predict = []
+
         for dic_row in self.list_of_dicts:
-            dic_row[self.Naive_Bayes.target_column] = self.Naive_Bayes.predict_by_row(dic_row)
+            row_copy = dic_row.copy()
+            row_copy[self.Naive_Bayes.target_column] = self.Naive_Bayes.predict_by_row(dic_row)
+            list_dic_predict.append(row_copy)
+
         return list_dic_predict
 
     def check_good(self):
