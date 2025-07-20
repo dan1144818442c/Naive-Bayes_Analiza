@@ -12,6 +12,7 @@ class classified:
         self.dic_percentages = self.Naive_Bayes.get_dic_after_updetes()
         self.dic_detiels_target = self.Naive_Bayes.dic_detiels_target
         self.name_target_column = self.Naive_Bayes.target_column
+
     def predict_by_input_of_all_columns(self):
         return self.Naive_Bayes.predict__by_full_dic_columns(self.Naive_Bayes.get_dic_by_input())
 

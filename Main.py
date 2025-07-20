@@ -8,14 +8,14 @@ class MainApp:
         manager = DB_Manager()
 
         while True:
-            instance = manager.load_class_object()
+            instance = manager.load_classifier()
 
             if not instance:
                 print("Error loading the class. Trying again...\n")
                 continue
 
 
-            print(f"אחוזי הצלחה {instance.Accuracy_percentages}")
+            print(f"Success rate: {instance.Accuracy_percentages}")
             # dic = json.loads(input("enter dic of choice"))
             # res, target_column = manager.predict_by_input(instance=instance , dic_input=dic)
             res, target_column = manager.predict_by_input(instance=instance )
@@ -32,3 +32,11 @@ class MainApp:
 
 if __name__ == "__main__":
     MainApp().action()
+
+
+
+
+
+
+
+    

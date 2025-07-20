@@ -8,7 +8,7 @@ params = {
     "UsingIP": 1,
     "LongURL": -1,
     "ShortURL": -1,
-    "HTTPS": 1
+
   }
 
 res = requests.get("http://127.0.0.1:8000/predict", params=params)

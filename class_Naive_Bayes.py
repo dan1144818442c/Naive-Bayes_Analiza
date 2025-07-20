@@ -19,6 +19,8 @@ class Naive_Bayes:
 
     def get_dic_after_updetes(self):
         return self.update_if_have_zero()
+
+
     def get_len_dict_target_val(self):
         num = 0
         for key,val in self.dic_detiels_target.items():
