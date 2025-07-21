@@ -1,7 +1,7 @@
 import pandas
 import pandas as pd
 import DATA_CSV.clean_data
-import class_Naive_Bayes
+from main import   class_Naive_Bayes
 import  copy
 from sklearn.model_selection import train_test_split
 

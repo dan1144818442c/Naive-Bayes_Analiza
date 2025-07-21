@@ -1,7 +1,7 @@
 import DATA_CSV
 import pandas as pd
-import Test
-import class_Naive_Bayes
+from main import Test
+from main import class_Naive_Bayes
 import logging_.Logging
 
 
