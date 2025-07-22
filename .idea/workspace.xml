@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23ffe8fa-f11b-402b-91cd-76a1b9efdf55" name="Changes" comment="" />
+    <list default="true" id="23ffe8fa-f11b-402b-91cd-76a1b9efdf55" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APP/request.py" beforeDir="false" afterPath="$PROJECT_DIR$/APP/request.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logging_/Logging.py" beforeDir="false" afterPath="$PROJECT_DIR$/logging_/Logging.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logging_/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/logging_/log.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +26,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dan1144818442c&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/dan1144818442c/Naive-Bayes_Analiza.git&quot;,
+    &quot;accountId&quot;: &quot;aae58e28-9ea3-41ad-9298-66c64c3fb89d&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -27,12 +51,64 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Base_classified.executor": "Run",
+    "Python.DB_Manager.executor": "Run",
+    "Python.Logging.executor": "Run",
+    "Python.Main.executor": "Run",
+    "Python.Save_CSV.executor": "Run",
+    "Python.Test.executor": "Run",
+    "Python.check_client_request.executor": "Run",
+    "Python.class_Naive_Bayes.executor": "Debug",
+    "Python.classified.executor": "Run",
+    "Python.classified_phishing_csv.executor": "Run",
+    "Python.classified_titanic.executor": "Run",
+    "Python.clean_data.executor": "Run",
+    "Python.data_news.executor": "Run",
+    "Python.learn.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.request.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "add__docker",
     "last_opened_file_path": "C:/Users/1/Desktop/DATA_Analiza/Naive Bayes",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\1\Desktop\DATA_Analiza\Naive Bayes" />
+      <recent name="C:\Users\1\Desktop\DATA_Analiza\Naive Bayes\logging" />
+      <recent name="C:\Users\1\Desktop\DATA_Analiza\Naive Bayes\DATA_CSV" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="request" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Naive Bayes" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/APP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/APP/request.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.request" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

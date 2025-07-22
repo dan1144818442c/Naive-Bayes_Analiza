@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+datetime
+pandas
+scikit-learn
