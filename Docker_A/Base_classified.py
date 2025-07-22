@@ -7,7 +7,7 @@ import logging_.Logging
 
 class classified:
     def __init__(self  ,dic_percentages ,dic_detiels_target , target_column = False , test :Test= None ):
-        self.Accuracy_percentages = test.check_good()
+        # self.Accuracy_percentages = test.check_good()
         # self.dic_percentages = self.Naive_Bayes.get_dic_after_updetes()
         self.dic_percentages = dic_percentages
         self.dic_detiels_target = dic_detiels_target
@@ -43,3 +43,4 @@ class classified:
 
 
 # a =classified().predict_by_input()
+

@@ -711,3 +711,15 @@ Creates a dictionary full of values with the probability     : 2025-07-22 15:42:
 Created successfully instance : classified     : 2025-07-22 15:42:45
 
 Prompts the user for values to create a dictionary     : 2025-07-22 15:42:45
+
+update the dictionary if_have_zero.     : 2025-07-22 18:38:49
+
+Creates a dictionary full of values with the probability     : 2025-07-22 18:38:49
+
+update the dictionary if_have_zero.     : 2025-07-22 18:39:18
+
+Creates a dictionary full of values with the probability     : 2025-07-22 18:39:18
+
+Sends a dictionary from the server to the classifier and receives a response     : 2025-07-22 18:41:27
+
+Identifies according to a given dictionary.     : 2025-07-22 18:41:27
