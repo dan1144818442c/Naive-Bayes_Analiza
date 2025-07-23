@@ -1,0 +1,725 @@
+ 
+
+Load the correct classifier's class.     : 2025-07-20 09:32:35
+
+Checks the success rate of the classifier     : 2025-07-20 09:32:38
+
+update the dictionary if_have_zero.     : 2025-07-20 09:32:38
+
+Creates a dictionary full of values with the probability     : 2025-07-20 09:32:38
+
+update the dictionary if_have_zero.     : 2025-07-20 09:32:38
+
+Creates a dictionary full of values with the probability     : 2025-07-20 09:32:38
+
+Created successfully instance : classified     : 2025-07-20 09:32:38
+
+Prompts the user for values to create a dictionary     : 2025-07-20 09:32:38
+
+Load the correct classifier's class.     : 2025-07-20 09:32:47
+
+Load the correct classifier's class.     : 2025-07-20 09:33:27
+
+Checks the success rate of the classifier     : 2025-07-20 09:33:28
+
+update the dictionary if_have_zero.     : 2025-07-20 09:33:28
+
+Creates a dictionary full of values with the probability     : 2025-07-20 09:33:28
+
+update the dictionary if_have_zero.     : 2025-07-20 09:33:28
+
+Creates a dictionary full of values with the probability     : 2025-07-20 09:33:28
+
+Created successfully instance : classified     : 2025-07-20 09:33:28
+
+Prompts the user for values to create a dictionary     : 2025-07-20 09:33:28
+
+predict according to dictionary     : 2025-07-20 09:33:31
+
+Load the correct classifier's class.     : 2025-07-20 09:33:41
+
+Checks the success rate of the classifier     : 2025-07-20 09:33:43
+
+update the dictionary if_have_zero.     : 2025-07-20 09:33:43
+
+Creates a dictionary full of values with the probability     : 2025-07-20 09:33:43
+
+update the dictionary if_have_zero.     : 2025-07-20 09:33:43
+
+Creates a dictionary full of values with the probability     : 2025-07-20 09:33:43
+
+Created successfully instance : classified     : 2025-07-20 09:33:43
+
+Prompts the user for values to create a dictionary     : 2025-07-20 09:33:43
+
+predict according to dictionary     : 2025-07-20 09:33:50
+
+Checks the success rate of the classifier     : 2025-07-20 10:37:28
+
+update the dictionary if_have_zero.     : 2025-07-20 10:37:28
+
+Creates a dictionary full of values with the probability     : 2025-07-20 10:37:28
+
+update the dictionary if_have_zero.     : 2025-07-20 10:37:28
+
+Creates a dictionary full of values with the probability     : 2025-07-20 10:37:28
+
+Checks the success rate of the classifier     : 2025-07-20 10:37:28
+
+update the dictionary if_have_zero.     : 2025-07-20 10:37:28
+
+Creates a dictionary full of values with the probability     : 2025-07-20 10:37:28
+
+update the dictionary if_have_zero.     : 2025-07-20 10:37:28
+
+Creates a dictionary full of values with the probability     : 2025-07-20 10:37:28
+
+Checks the success rate of the classifier     : 2025-07-20 10:37:28
+
+update the dictionary if_have_zero.     : 2025-07-20 10:37:28
+
+Creates a dictionary full of values with the probability     : 2025-07-20 10:37:28
+
+update the dictionary if_have_zero.     : 2025-07-20 10:37:28
+
+Creates a dictionary full of values with the probability     : 2025-07-20 10:37:28
+
+Sends a dictionary from the server to the classifier and receives a response     : 2025-07-20 10:37:39
+
+Identifies according to a given dictionary.     : 2025-07-20 10:37:39
+
+Load the correct classifier's class.     : 2025-07-20 10:38:01
+
+Checks the success rate of the classifier     : 2025-07-20 10:38:06
+
+update the dictionary if_have_zero.     : 2025-07-20 10:38:06
+
+Creates a dictionary full of values with the probability     : 2025-07-20 10:38:06
+
+update the dictionary if_have_zero.     : 2025-07-20 10:38:06
+
+Creates a dictionary full of values with the probability     : 2025-07-20 10:38:06
+
+Created successfully instance : classified     : 2025-07-20 10:38:06
+
+Prompts the user for values to create a dictionary     : 2025-07-20 10:38:06
+
+Load the correct classifier's class.     : 2025-07-20 10:47:37
+
+Checks the success rate of the classifier     : 2025-07-20 10:47:38
+
+update the dictionary if_have_zero.     : 2025-07-20 10:47:38
+
+Creates a dictionary full of values with the probability     : 2025-07-20 10:47:38
+
+update the dictionary if_have_zero.     : 2025-07-20 10:47:38
+
+Creates a dictionary full of values with the probability     : 2025-07-20 10:47:38
+
+Checks the success rate of the classifier     : 2025-07-20 10:47:38
+
+update the dictionary if_have_zero.     : 2025-07-20 10:47:38
+
+Creates a dictionary full of values with the probability     : 2025-07-20 10:47:38
+
+update the dictionary if_have_zero.     : 2025-07-20 10:47:38
+
+Creates a dictionary full of values with the probability     : 2025-07-20 10:47:38
+
+Checks the success rate of the classifier     : 2025-07-20 10:47:38
+
+update the dictionary if_have_zero.     : 2025-07-20 10:47:38
+
+Creates a dictionary full of values with the probability     : 2025-07-20 10:47:38
+
+update the dictionary if_have_zero.     : 2025-07-20 10:47:38
+
+Creates a dictionary full of values with the probability     : 2025-07-20 10:47:38
+
+Sends a dictionary from the server to the classifier and receives a response     : 2025-07-20 10:47:43
+
+Identifies according to a given dictionary.     : 2025-07-20 10:47:43
+
+Checks the success rate of the classifier     : 2025-07-20 10:47:45
+
+update the dictionary if_have_zero.     : 2025-07-20 10:47:45
+
+Creates a dictionary full of values with the probability     : 2025-07-20 10:47:45
+
+update the dictionary if_have_zero.     : 2025-07-20 10:47:45
+
+Creates a dictionary full of values with the probability     : 2025-07-20 10:47:45
+
+Created successfully instance : classified     : 2025-07-20 10:47:45
+
+Prompts the user for values to create a dictionary     : 2025-07-20 10:47:45
+
+Sends a dictionary from the server to the classifier and receives a response     : 2025-07-20 10:47:56
+
+Identifies according to a given dictionary.     : 2025-07-20 10:47:56
+
+Sends a dictionary from the server to the classifier and receives a response     : 2025-07-20 10:48:08
+
+Identifies according to a given dictionary.     : 2025-07-20 10:48:08
+
+predict according to dictionary     : 2025-07-20 10:48:21
+
+Checks the success rate of the classifier     : 2025-07-21 18:24:16
+
+update the dictionary if_have_zero.     : 2025-07-21 18:24:16
+
+Creates a dictionary full of values with the probability     : 2025-07-21 18:24:16
+
+update the dictionary if_have_zero.     : 2025-07-21 18:24:16
+
+Creates a dictionary full of values with the probability     : 2025-07-21 18:24:16
+
+Checks the success rate of the classifier     : 2025-07-21 18:24:16
+
+update the dictionary if_have_zero.     : 2025-07-21 18:24:16
+
+Creates a dictionary full of values with the probability     : 2025-07-21 18:24:16
+
+update the dictionary if_have_zero.     : 2025-07-21 18:24:16
+
+Creates a dictionary full of values with the probability     : 2025-07-21 18:24:16
+
+Checks the success rate of the classifier     : 2025-07-21 18:24:16
+
+update the dictionary if_have_zero.     : 2025-07-21 18:24:16
+
+Creates a dictionary full of values with the probability     : 2025-07-21 18:24:16
+
+update the dictionary if_have_zero.     : 2025-07-21 18:24:16
+
+Creates a dictionary full of values with the probability     : 2025-07-21 18:24:16
+
+Sends a dictionary from the server to the classifier and receives a response     : 2025-07-21 18:24:22
+
+Identifies according to a given dictionary.     : 2025-07-21 18:24:22
+
+Load the correct classifier's class.     : 2025-07-21 18:24:35
+
+Checks the success rate of the classifier     : 2025-07-21 18:24:37
+
+update the dictionary if_have_zero.     : 2025-07-21 18:24:37
+
+Creates a dictionary full of values with the probability     : 2025-07-21 18:24:37
+
+update the dictionary if_have_zero.     : 2025-07-21 18:24:37
+
+Creates a dictionary full of values with the probability     : 2025-07-21 18:24:37
+
+Created successfully instance : classified     : 2025-07-21 18:24:37
+
+Prompts the user for values to create a dictionary     : 2025-07-21 18:24:37
+
+Load the correct classifier's class.     : 2025-07-21 18:24:45
+
+Checks the success rate of the classifier     : 2025-07-21 18:24:47
+
+update the dictionary if_have_zero.     : 2025-07-21 18:24:47
+
+Creates a dictionary full of values with the probability     : 2025-07-21 18:24:47
+
+update the dictionary if_have_zero.     : 2025-07-21 18:24:47
+
+Creates a dictionary full of values with the probability     : 2025-07-21 18:24:47
+
+Created successfully instance : classified     : 2025-07-21 18:24:47
+
+Prompts the user for values to create a dictionary     : 2025-07-21 18:24:47
+
+predict according to dictionary     : 2025-07-21 18:24:49
+
+Checks the success rate of the classifier     : 2025-07-21 18:35:54
+
+update the dictionary if_have_zero.     : 2025-07-21 18:35:54
+
+Creates a dictionary full of values with the probability     : 2025-07-21 18:35:54
+
+update the dictionary if_have_zero.     : 2025-07-21 18:35:54
+
+Creates a dictionary full of values with the probability     : 2025-07-21 18:35:54
+
+Checks the success rate of the classifier     : 2025-07-21 18:35:54
+
+update the dictionary if_have_zero.     : 2025-07-21 18:35:54
+
+Creates a dictionary full of values with the probability     : 2025-07-21 18:35:54
+
+update the dictionary if_have_zero.     : 2025-07-21 18:35:54
+
+Creates a dictionary full of values with the probability     : 2025-07-21 18:35:54
+
+Checks the success rate of the classifier     : 2025-07-21 18:35:54
+
+update the dictionary if_have_zero.     : 2025-07-21 18:35:54
+
+Creates a dictionary full of values with the probability     : 2025-07-21 18:35:54
+
+update the dictionary if_have_zero.     : 2025-07-21 18:35:54
+
+Creates a dictionary full of values with the probability     : 2025-07-21 18:35:54
+
+Checks the success rate of the classifier     : 2025-07-21 18:38:48
+
+update the dictionary if_have_zero.     : 2025-07-21 18:38:48
+
+Creates a dictionary full of values with the probability     : 2025-07-21 18:38:48
+
+update the dictionary if_have_zero.     : 2025-07-21 18:38:48
+
+Creates a dictionary full of values with the probability     : 2025-07-21 18:38:48
+
+Checks the success rate of the classifier     : 2025-07-21 18:38:48
+
+update the dictionary if_have_zero.     : 2025-07-21 18:38:48
+
+Creates a dictionary full of values with the probability     : 2025-07-21 18:38:48
+
+update the dictionary if_have_zero.     : 2025-07-21 18:38:48
+
+Creates a dictionary full of values with the probability     : 2025-07-21 18:38:48
+
+Checks the success rate of the classifier     : 2025-07-21 18:38:48
+
+update the dictionary if_have_zero.     : 2025-07-21 18:38:48
+
+Creates a dictionary full of values with the probability     : 2025-07-21 18:38:48
+
+update the dictionary if_have_zero.     : 2025-07-21 18:38:48
+
+Creates a dictionary full of values with the probability     : 2025-07-21 18:38:48
+
+Checks the success rate of the classifier     : 2025-07-21 18:40:31
+
+update the dictionary if_have_zero.     : 2025-07-21 18:40:31
+
+Creates a dictionary full of values with the probability     : 2025-07-21 18:40:31
+
+update the dictionary if_have_zero.     : 2025-07-21 18:40:31
+
+Creates a dictionary full of values with the probability     : 2025-07-21 18:40:31
+
+Checks the success rate of the classifier     : 2025-07-21 18:40:31
+
+update the dictionary if_have_zero.     : 2025-07-21 18:40:31
+
+Creates a dictionary full of values with the probability     : 2025-07-21 18:40:31
+
+update the dictionary if_have_zero.     : 2025-07-21 18:40:31
+
+Creates a dictionary full of values with the probability     : 2025-07-21 18:40:31
+
+Checks the success rate of the classifier     : 2025-07-21 18:40:31
+
+update the dictionary if_have_zero.     : 2025-07-21 18:40:31
+
+Creates a dictionary full of values with the probability     : 2025-07-21 18:40:31
+
+update the dictionary if_have_zero.     : 2025-07-21 18:40:31
+
+Creates a dictionary full of values with the probability     : 2025-07-21 18:40:31
+
+Sends a dictionary from the server to the classifier and receives a response     : 2025-07-21 18:40:34
+
+Identifies according to a given dictionary.     : 2025-07-21 18:40:34
+
+Load the correct classifier's class.     : 2025-07-22 10:06:53
+
+Checks the success rate of the classifier     : 2025-07-22 10:07:01
+
+update the dictionary if_have_zero.     : 2025-07-22 10:07:01
+
+Creates a dictionary full of values with the probability     : 2025-07-22 10:07:01
+
+update the dictionary if_have_zero.     : 2025-07-22 10:07:01
+
+Creates a dictionary full of values with the probability     : 2025-07-22 10:07:01
+
+Created successfully instance : classified     : 2025-07-22 10:07:01
+
+Prompts the user for values to create a dictionary     : 2025-07-22 10:07:01
+
+Checks the success rate of the classifier     : 2025-07-22 10:22:59
+
+update the dictionary if_have_zero.     : 2025-07-22 10:22:59
+
+Creates a dictionary full of values with the probability     : 2025-07-22 10:22:59
+
+update the dictionary if_have_zero.     : 2025-07-22 10:22:59
+
+Creates a dictionary full of values with the probability     : 2025-07-22 10:22:59
+
+Checks the success rate of the classifier     : 2025-07-22 10:22:59
+
+update the dictionary if_have_zero.     : 2025-07-22 10:22:59
+
+Creates a dictionary full of values with the probability     : 2025-07-22 10:22:59
+
+update the dictionary if_have_zero.     : 2025-07-22 10:22:59
+
+Creates a dictionary full of values with the probability     : 2025-07-22 10:22:59
+
+Checks the success rate of the classifier     : 2025-07-22 10:22:59
+
+update the dictionary if_have_zero.     : 2025-07-22 10:22:59
+
+Creates a dictionary full of values with the probability     : 2025-07-22 10:22:59
+
+update the dictionary if_have_zero.     : 2025-07-22 10:22:59
+
+Creates a dictionary full of values with the probability     : 2025-07-22 10:22:59
+
+Sends a dictionary from the server to the classifier and receives a response     : 2025-07-22 10:24:53
+
+Identifies according to a given dictionary.     : 2025-07-22 10:24:54
+
+Checks the success rate of the classifier     : 2025-07-22 10:25:24
+
+update the dictionary if_have_zero.     : 2025-07-22 10:25:24
+
+Creates a dictionary full of values with the probability     : 2025-07-22 10:25:24
+
+update the dictionary if_have_zero.     : 2025-07-22 10:25:24
+
+Creates a dictionary full of values with the probability     : 2025-07-22 10:25:24
+
+Checks the success rate of the classifier     : 2025-07-22 10:25:24
+
+update the dictionary if_have_zero.     : 2025-07-22 10:25:24
+
+Creates a dictionary full of values with the probability     : 2025-07-22 10:25:24
+
+update the dictionary if_have_zero.     : 2025-07-22 10:25:24
+
+Creates a dictionary full of values with the probability     : 2025-07-22 10:25:24
+
+Checks the success rate of the classifier     : 2025-07-22 10:25:24
+
+update the dictionary if_have_zero.     : 2025-07-22 10:25:25
+
+Creates a dictionary full of values with the probability     : 2025-07-22 10:25:25
+
+update the dictionary if_have_zero.     : 2025-07-22 10:25:25
+
+Creates a dictionary full of values with the probability     : 2025-07-22 10:25:25
+
+Checks the success rate of the classifier     : 2025-07-22 12:02:16
+
+update the dictionary if_have_zero.     : 2025-07-22 12:02:16
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:02:16
+
+update the dictionary if_have_zero.     : 2025-07-22 12:02:16
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:02:16
+
+Checks the success rate of the classifier     : 2025-07-22 12:02:16
+
+update the dictionary if_have_zero.     : 2025-07-22 12:02:16
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:02:16
+
+update the dictionary if_have_zero.     : 2025-07-22 12:02:16
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:02:16
+
+Checks the success rate of the classifier     : 2025-07-22 12:02:16
+
+update the dictionary if_have_zero.     : 2025-07-22 12:02:16
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:02:16
+
+update the dictionary if_have_zero.     : 2025-07-22 12:02:16
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:02:16
+
+Checks the success rate of the classifier     : 2025-07-22 12:03:08
+
+update the dictionary if_have_zero.     : 2025-07-22 12:03:08
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:03:08
+
+update the dictionary if_have_zero.     : 2025-07-22 12:03:09
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:03:09
+
+Checks the success rate of the classifier     : 2025-07-22 12:03:09
+
+update the dictionary if_have_zero.     : 2025-07-22 12:03:09
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:03:09
+
+update the dictionary if_have_zero.     : 2025-07-22 12:03:09
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:03:09
+
+Checks the success rate of the classifier     : 2025-07-22 12:03:09
+
+update the dictionary if_have_zero.     : 2025-07-22 12:03:09
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:03:09
+
+update the dictionary if_have_zero.     : 2025-07-22 12:03:09
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:03:09
+
+Checks the success rate of the classifier     : 2025-07-22 12:05:52
+
+update the dictionary if_have_zero.     : 2025-07-22 12:05:52
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:05:52
+
+update the dictionary if_have_zero.     : 2025-07-22 12:05:52
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:05:52
+
+Checks the success rate of the classifier     : 2025-07-22 12:05:53
+
+update the dictionary if_have_zero.     : 2025-07-22 12:05:53
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:05:53
+
+update the dictionary if_have_zero.     : 2025-07-22 12:05:53
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:05:53
+
+Checks the success rate of the classifier     : 2025-07-22 12:05:53
+
+update the dictionary if_have_zero.     : 2025-07-22 12:05:53
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:05:53
+
+update the dictionary if_have_zero.     : 2025-07-22 12:05:53
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:05:53
+
+Checks the success rate of the classifier     : 2025-07-22 12:12:50
+
+update the dictionary if_have_zero.     : 2025-07-22 12:12:50
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:12:50
+
+update the dictionary if_have_zero.     : 2025-07-22 12:12:50
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:12:50
+
+Checks the success rate of the classifier     : 2025-07-22 12:12:50
+
+update the dictionary if_have_zero.     : 2025-07-22 12:12:50
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:12:50
+
+update the dictionary if_have_zero.     : 2025-07-22 12:12:50
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:12:50
+
+Checks the success rate of the classifier     : 2025-07-22 12:12:50
+
+update the dictionary if_have_zero.     : 2025-07-22 12:12:50
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:12:50
+
+update the dictionary if_have_zero.     : 2025-07-22 12:12:50
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:12:50
+
+Checks the success rate of the classifier     : 2025-07-22 12:16:40
+
+update the dictionary if_have_zero.     : 2025-07-22 12:16:40
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:16:40
+
+update the dictionary if_have_zero.     : 2025-07-22 12:16:40
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:16:40
+
+Checks the success rate of the classifier     : 2025-07-22 12:16:40
+
+update the dictionary if_have_zero.     : 2025-07-22 12:16:40
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:16:40
+
+update the dictionary if_have_zero.     : 2025-07-22 12:16:40
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:16:40
+
+Checks the success rate of the classifier     : 2025-07-22 12:16:40
+
+update the dictionary if_have_zero.     : 2025-07-22 12:16:40
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:16:40
+
+update the dictionary if_have_zero.     : 2025-07-22 12:16:40
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:16:40
+
+Checks the success rate of the classifier     : 2025-07-22 12:18:09
+
+update the dictionary if_have_zero.     : 2025-07-22 12:18:09
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:18:09
+
+update the dictionary if_have_zero.     : 2025-07-22 12:18:09
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:18:09
+
+Checks the success rate of the classifier     : 2025-07-22 12:18:09
+
+update the dictionary if_have_zero.     : 2025-07-22 12:18:09
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:18:09
+
+update the dictionary if_have_zero.     : 2025-07-22 12:18:09
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:18:09
+
+Checks the success rate of the classifier     : 2025-07-22 12:18:09
+
+update the dictionary if_have_zero.     : 2025-07-22 12:18:09
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:18:09
+
+update the dictionary if_have_zero.     : 2025-07-22 12:18:09
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:18:09
+
+Checks the success rate of the classifier     : 2025-07-22 12:21:25
+
+update the dictionary if_have_zero.     : 2025-07-22 12:21:25
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:21:25
+
+update the dictionary if_have_zero.     : 2025-07-22 12:21:25
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:21:25
+
+Checks the success rate of the classifier     : 2025-07-22 12:21:25
+
+update the dictionary if_have_zero.     : 2025-07-22 12:21:25
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:21:26
+
+update the dictionary if_have_zero.     : 2025-07-22 12:21:26
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:21:26
+
+Checks the success rate of the classifier     : 2025-07-22 12:21:26
+
+update the dictionary if_have_zero.     : 2025-07-22 12:21:26
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:21:26
+
+update the dictionary if_have_zero.     : 2025-07-22 12:21:26
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:21:26
+
+Sends a dictionary from the server to the classifier and receives a response     : 2025-07-22 12:21:35
+
+Identifies according to a given dictionary.     : 2025-07-22 12:21:35
+
+Checks the success rate of the classifier     : 2025-07-22 12:23:25
+
+update the dictionary if_have_zero.     : 2025-07-22 12:23:25
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:23:25
+
+update the dictionary if_have_zero.     : 2025-07-22 12:23:25
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:23:25
+
+Checks the success rate of the classifier     : 2025-07-22 12:23:25
+
+update the dictionary if_have_zero.     : 2025-07-22 12:23:25
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:23:25
+
+update the dictionary if_have_zero.     : 2025-07-22 12:23:25
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:23:25
+
+Checks the success rate of the classifier     : 2025-07-22 12:23:25
+
+update the dictionary if_have_zero.     : 2025-07-22 12:23:25
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:23:25
+
+update the dictionary if_have_zero.     : 2025-07-22 12:23:25
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:23:25
+
+Sends a dictionary from the server to the classifier and receives a response     : 2025-07-22 12:23:27
+
+Identifies according to a given dictionary.     : 2025-07-22 12:23:27
+
+Checks the success rate of the classifier     : 2025-07-22 12:23:33
+
+update the dictionary if_have_zero.     : 2025-07-22 12:23:33
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:23:33
+
+update the dictionary if_have_zero.     : 2025-07-22 12:23:33
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:23:33
+
+Checks the success rate of the classifier     : 2025-07-22 12:23:33
+
+update the dictionary if_have_zero.     : 2025-07-22 12:23:33
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:23:33
+
+update the dictionary if_have_zero.     : 2025-07-22 12:23:33
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:23:33
+
+Checks the success rate of the classifier     : 2025-07-22 12:23:33
+
+update the dictionary if_have_zero.     : 2025-07-22 12:23:33
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:23:33
+
+update the dictionary if_have_zero.     : 2025-07-22 12:23:33
+
+Creates a dictionary full of values with the probability     : 2025-07-22 12:23:33
+
+Sends a dictionary from the server to the classifier and receives a response     : 2025-07-22 12:23:33
+
+Identifies according to a given dictionary.     : 2025-07-22 12:23:33
+
+Sends a dictionary from the server to the classifier and receives a response     : 2025-07-22 12:23:44
+
+Identifies according to a given dictionary.     : 2025-07-22 12:23:44
+
+Sends a dictionary from the server to the classifier and receives a response     : 2025-07-22 12:26:56
+
+Identifies according to a given dictionary.     : 2025-07-22 12:26:56
+
+Load the correct classifier's class.     : 2025-07-22 15:42:43
+
+Checks the success rate of the classifier     : 2025-07-22 15:42:45
+
+update the dictionary if_have_zero.     : 2025-07-22 15:42:45
+
+Creates a dictionary full of values with the probability     : 2025-07-22 15:42:45
+
+update the dictionary if_have_zero.     : 2025-07-22 15:42:45
+
+Creates a dictionary full of values with the probability     : 2025-07-22 15:42:45
+
+Created successfully instance : classified     : 2025-07-22 15:42:45
+
+Prompts the user for values to create a dictionary     : 2025-07-22 15:42:45
+
+update the dictionary if_have_zero.     : 2025-07-22 18:38:49
+
+Creates a dictionary full of values with the probability     : 2025-07-22 18:38:49
+
+update the dictionary if_have_zero.     : 2025-07-22 18:39:18
+
+Creates a dictionary full of values with the probability     : 2025-07-22 18:39:18
+
+Sends a dictionary from the server to the classifier and receives a response     : 2025-07-22 18:41:27
+
+Identifies according to a given dictionary.     : 2025-07-22 18:41:27

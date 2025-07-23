@@ -1,12 +1,8 @@
-import DATA_CSV
-import pandas as pd
-from main import Test
-from main import class_Naive_Bayes
 import logging_.Logging
 
 
 class classified:
-    def __init__(self  ,dic_percentages ,dic_detiels_target , target_column = False , test :Test= None ):
+    def __init__(self  ,dic_percentages ,dic_detiels_target , target_column = False ):
         # self.Accuracy_percentages = test.check_good()
         # self.dic_percentages = self.Naive_Bayes.get_dic_after_updetes()
         self.dic_percentages = dic_percentages
