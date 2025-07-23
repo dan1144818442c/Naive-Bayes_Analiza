@@ -6,11 +6,24 @@ import Base_classified as Classified
 import requests
 app = FastAPI()
 df_phishing = requests.get(r"http://data-service:80/dic_predict/df_phishing").json()
+df_computer = requests.get(r"http://data-service:80/dic_predict/df_computer").json()
+df_titanic = requests.get(r"http://data-service:80/dic_predict/df_titanic").json()
+
 dic_DB = {"df_phishing":{"dic_percentages" : df_phishing["dic"] ,
                          "target_column" :df_phishing["target_column"] ,
                          "dic_detiels_target" :df_phishing["dic_detiels_target"] ,
-                        "Accuracy percentages" : df_phishing["Accuracy percentages"]
-                         } }
+                        "Accuracy percentages" : df_phishing["Accuracy percentages"]} ,
+
+          "df_computer" : {"dic_percentages" : df_computer["dic"] ,
+                         "target_column" :df_computer["target_column"] ,
+                         "dic_detiels_target" :df_computer["dic_detiels_target"] ,
+                        "Accuracy percentages" : df_computer["Accuracy percentages"]} ,
+
+          "df_titanic" : {"dic_percentages" : df_titanic["dic"] ,
+                         "target_column" :df_titanic["target_column"] ,
+                         "dic_detiels_target" :df_titanic["dic_detiels_target"] ,
+                        "Accuracy percentages" : df_titanic["Accuracy percentages"]}
+          }
 
 @app.get("/predict/{database_name}")
 async def predict(database_name: str, request: Request):

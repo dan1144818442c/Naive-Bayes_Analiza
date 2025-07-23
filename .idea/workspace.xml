@@ -5,21 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23ffe8fa-f11b-402b-91cd-76a1b9efdf55" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DATA_CSV/CSV_buy_comuter.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DATA_CSV/CSV_phishing.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DATA_CSV/CSV_titanic.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DATA_CSV/Save_CSV.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DATA_CSV/bins.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DATA_CSV/clean_data.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docker_A/Base_classified.py" beforeDir="false" afterPath="$PROJECT_DIR$/Docker_A/Base_classified.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Docker_A/app_docker_A.py" beforeDir="false" afterPath="$PROJECT_DIR$/Docker_A/app_docker_A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Docker_B/DATA_CSV/clean_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Docker_B/DATA_CSV/clean_data.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Docker_B/app_docker_B.py" beforeDir="false" afterPath="$PROJECT_DIR$/Docker_B/app_docker_B.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/DB_Manager.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/Main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/Test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/class_Naive_Bayes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Docker_B/main/DB_Manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/Docker_B/main/DB_Manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Docker_B/main/Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Docker_B/Test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Docker_B/main/class_Naive_Bayes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Docker_B/class_Naive_Bayes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +76,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\1\Desktop\DATA_Analiza\Naive Bayes\Docker_B" />
       <recent name="C:\Users\1\Desktop\DATA_Analiza\Naive Bayes" />
       <recent name="C:\Users\1\Desktop\DATA_Analiza\Naive Bayes\logging" />
       <recent name="C:\Users\1\Desktop\DATA_Analiza\Naive Bayes\DATA_CSV" />

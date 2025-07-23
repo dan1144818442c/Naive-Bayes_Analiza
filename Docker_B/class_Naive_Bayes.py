@@ -1,7 +1,4 @@
 import pandas as pd
-import numpy as np
-
-import DATA_CSV.clean_data
 import logging_.Logging
 
 
@@ -172,13 +169,3 @@ class Naive_Bayes:
             else:
                 print(" Invalid choice. Try again.\n")
 
-# df = pd.read_csv(r"C:\Users\1\Desktop\DATA_Analiza\Naive Bayes\DATA_CSV\CSV_buy_comuter.csv" , index_col='id')
-# df = DATA_CSV.clean_data.clean_nall_and_duplicates(df)
-# # print(df)
-# n = Naive_Bayes(df)
-# # print(n.get_dic_of_val_count_with_0('age'))
-# # print(n.get_num_of_val_count_in_target())
-# # n.fiil_dict()
-# # print("    ")
-# print(n.update_if_have_zero())
-# n.predict_by_input()

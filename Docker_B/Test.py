@@ -1,10 +1,5 @@
-import pandas
-import pandas as pd
-import DATA_CSV.clean_data
-from main import   class_Naive_Bayes
-import  copy
+import class_Naive_Bayes
 from sklearn.model_selection import train_test_split
-
 import logging_.Logging
 
 
