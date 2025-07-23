@@ -4,7 +4,9 @@ import uvicorn
 import logging_
 import Base_classified as Classified
 import requests
+
 app = FastAPI()
+
 df_phishing = requests.get(r"http://data-service:80/dic_predict/df_phishing").json()
 df_computer = requests.get(r"http://data-service:80/dic_predict/df_computer").json()
 df_titanic = requests.get(r"http://data-service:80/dic_predict/df_titanic").json()

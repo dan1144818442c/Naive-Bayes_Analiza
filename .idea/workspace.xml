@@ -6,12 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="23ffe8fa-f11b-402b-91cd-76a1b9efdf55" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APP/check_client_request.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APP/request.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Docker_A/app_docker_A.py" beforeDir="false" afterPath="$PROJECT_DIR$/Docker_A/app_docker_A.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docker_B/DATA_CSV/clean_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Docker_B/DATA_CSV/clean_data.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Docker_B/app_docker_B.py" beforeDir="false" afterPath="$PROJECT_DIR$/Docker_B/app_docker_B.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docker_B/main/DB_Manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/Docker_B/main/DB_Manager.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docker_B/main/Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Docker_B/Test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docker_B/main/class_Naive_Bayes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Docker_B/class_Naive_Bayes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logging_/Logging.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logging_/log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Base_classified.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

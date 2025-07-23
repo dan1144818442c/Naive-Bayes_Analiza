@@ -30,8 +30,8 @@ dic_df_computer = df_computer_class_Naive_Bayes.get_dic_after_updetes()
 df_computer_dic_detiels_target = df_computer_class_Naive_Bayes.dic_detiels_target
 df_computer_target_column = df_computer_class_Naive_Bayes.target_column
 
-# df_titanic
 
+# df_titanic
 df_titanic = pd.read_csv("DATA_CSV/CSV_titanic.csv")
 df_titanic_clean = clean_nall_and_duplicates(df_titanic)
 df_titanic_test = Test.test(df_titanic_clean)
@@ -49,8 +49,7 @@ df_titanic_target_column = df_titanic_class_Naive_Bayes.target_column
 # titanic_classifier = Base_classified.classified(data_frame=df_titanic_clean, target_column='Survived')
 
 Percentage_dictionary = {
-    # 'df_titanic': dic_df_phishing,
-    # 'df_computer': computer_classifier,
+
     'df_phishing': {"dic":dic_df_phishing ,
                     "target_column" : df_phishing_target_column,
                     "dic_detiels_target":df_phishing_dic_detiels_target ,
